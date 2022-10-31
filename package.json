@@ -1,0 +1,27 @@
+{
+  "name": "apirestguatemala",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoxanaA29/APIGUATEMALA.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RoxanaA29/APIGUATEMALA/issues"
+  },
+  "homepage": "https://github.com/RoxanaA29/APIGUATEMALA#readme",
+  "description": ""
+}
